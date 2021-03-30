@@ -1,0 +1,25 @@
+{
+    "elements": {
+        "style": {}
+    },
+    "attributes": {
+        "th:if": {
+            "context": "p"
+        },
+        "charset": {
+            "context": "meta"
+        },
+        "name": {
+            "context": "meta"
+        },
+        "th:action": {
+            "context": "form"
+        },
+        "http-equiv": {
+            "context": "meta"
+        },
+        "th:href": {
+            "context": "link"
+        }
+    }
+}
